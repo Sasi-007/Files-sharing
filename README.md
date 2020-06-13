@@ -5,3 +5,7 @@ Bcz its automatically files will be downloaded and uploaded from "uploads" folde
 Thn u find your ip address by using ipconfig in cmd
 thn open the browser and enter ip address by following"/filesharing" give path to this
 Dont forget to paste the code file and folder"uploads" in htdocs under named "filesharing".... 
+
+
+
+Credits goes to dcode(youtube). I Learned a lot from it.
