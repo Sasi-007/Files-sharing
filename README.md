@@ -8,4 +8,7 @@ Dont forget to paste the code file and folder"uploads" in htdocs under named "fi
 
 
 
-Credits goes to dcode(youtube). I Learned a lot from it.
+Thanks to dcode(youtube). I Learned a lot from it.
+
+Want to add more options in it. Please tag in issues panel.
+
